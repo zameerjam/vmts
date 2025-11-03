@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hello this is about page edit</h1>
+    <h1>hello this is about page of laravel system</h1>
 </body>
 </html>
