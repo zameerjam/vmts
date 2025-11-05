@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    home page of laravel
+    home page of laravel branch change
 </body>
 </html>
